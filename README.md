@@ -6,4 +6,4 @@
 
 •	Used the regression technique of gradient boosting to determine housing prices and submitted results to kaggle obtaining an RMS log error of 0.14144
 
-![](https://github.com/Y-Hailegiorgs/Yohanes_Portfolio-/blob/main/images/HousingPrice%20submission.png)
+
